@@ -1,9 +1,1 @@
-Todo
-====
-
-- Download notes in the background on login
-- Sync/merge notes when the application relaunches
-- Create note needs to queue a write to the API
-- Delete note functionality
-
-More information and discussion at [Google Groups](http://groups.google.com/group/simplenote-api/browse_thread/thread/7fc1fc123752fb12)
+This repo is no longer being maintained. There are many other projects out that support SimpleNote on Android.
